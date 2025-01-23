@@ -27,4 +27,6 @@ $ cd Diffy-master
 
 ## &#x00A9;&#xFE0F; License
 
-GNU v3.0. Copyright (c) [Aabbfive](https://github.com/aabbfive).
+GNU v3.0. Copyright (c) [Aabbfive](https://github.com/ErenSnowh)
+
+).
